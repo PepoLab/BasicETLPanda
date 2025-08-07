@@ -1,4 +1,4 @@
-# 🛠️ ETL em Python para Arquivo CSV Grande com Carga no SQL Server
+ ETL em Python para Arquivo CSV Grande com Carga no SQL Server
 
 Este projeto realiza um processo **ETL (Extract, Transform, Load)** eficiente para arquivos `.csv` de grande porte, realizando:
 
@@ -9,7 +9,7 @@ Este projeto realiza um processo **ETL (Extract, Transform, Load)** eficiente pa
 
 ---
 
-## 🎯 Objetivo do Projeto
+Objetivo do Projeto
 
 O objetivo deste processo de ETL foi **disponibilizar um grande volume de dados estruturados em um banco SQL Server** para que a equipe de **Cientistas de Dados** pudesse aplicar regras de **Inteligência de Negócio (BI)** e realizar análises avançadas.
 
@@ -23,7 +23,7 @@ Durante o desenvolvimento, aprendi e apliquei boas práticas relacionadas a:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 - Python 3.x
 - Pandas
